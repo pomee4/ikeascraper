@@ -3,7 +3,7 @@ import sqlite3
 import json
 
 # Define the URL and parameters for the API request
-url = "https://web-api.ikea.com/circular/circular-asis/api/public/offers/hu/hu"
+url = "https://web-api.ikea.com/circular/circular-asis/offers/public/hu/hu"
 headers = {
     "Referrer-Policy": "strict-origin-when-cross-origin"
 }
